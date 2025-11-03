@@ -32,7 +32,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Shery.js](https://img.shields.io/badge/Shery.js-FF4088?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 #### 🎨 **UI / UX Design Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -61,7 +61,6 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-222222?style=for-the-badge&logo=javascript&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-FF4088?style=for-the-badge&logo=javascript&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 #### ☁️ **Hosting / Deployment**
