@@ -87,7 +87,10 @@
 
 ## 🐍 My Contribution Snake
 
-![Snake animation](https://github.com/Laiba1010/Laiba1010/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Laiba1010/Laiba1010/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 
 ---
 
